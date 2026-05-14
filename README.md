@@ -23,6 +23,7 @@
 <ul>
   <li>Fake News Detection System</li>
   <li>Digital Literacy Project</li>
+  <li>Time-Table Generator</li>
 </ul>
 
 <h2>🌱 Goals</h2>
