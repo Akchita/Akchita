@@ -13,6 +13,7 @@
   <li>Python (Beginner)</li>
   <li>Data Analysis</li>
   <li>Machine Learning (Basics)</li>
+  <li>Front-end Developer</li>
   <li>Digital Literacy</li>
   <li>Mutlilingual(English, Hindi, Bengali, Korean)</li>
   
